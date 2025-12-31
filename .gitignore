@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts
+artifacts/
+models/
+
+# EDA outputs
+eda_outputs/
+shap_outputs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
