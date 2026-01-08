@@ -26,3 +26,6 @@ shap_outputs/
 
 # Temporary files
 *.tmp
+
+#image
+*.png
