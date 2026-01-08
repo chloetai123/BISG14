@@ -1,6 +1,7 @@
 **Improving bank loan approval decisions through predictive analytics: A comparative analysis of random forest and XGBoost models**
 
 Overview
+
 This project builds a machine learning based loan approval prediction system by comparing between Rnadom Forest and XGBoost to see which model is better at predicting loan approval. The goal is to identify high-risk borroweres in an imbalanced dataset and support credit risk decision making. 
 
 Dataset
